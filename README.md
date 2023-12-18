@@ -9,7 +9,7 @@ BookCart is a web application that allows users to buy and sell their used books
 To get started with BookCart, you will need to have Node.js installed on your system. Once you have Node.js installed, you can clone the repository and install the necessary dependencies using the following commands:
 
 ```
-git clone https://github.com/gauransh-juneja/Book-Cart)
+git clone https://github.com/gauransh-juneja/Book-Cart
 cd bookcart
 npm install
 ```
