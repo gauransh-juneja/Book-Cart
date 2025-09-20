@@ -84,7 +84,7 @@ function Terms() {
       </ul>
       <div className="bottomNav">
         <a
-          href="https://github.com/akash-singh8"
+          href="https://github.com/gauransh-juneja"
           target="_blank"
           rel="noreferrer"
           className="bottomNavIcon"
